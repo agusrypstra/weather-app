@@ -1,0 +1,13 @@
+.grades-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.grades-container *{
+    margin: 0;
+}
+.details-container{
+    text-align: left;
+}
